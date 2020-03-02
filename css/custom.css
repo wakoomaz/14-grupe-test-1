@@ -6,6 +6,8 @@ div{ background-color: red;
 
     }
 
-    p {
-
+    p { text-transform: capitalize;
+        text-decoration: underline;
+        font-style: italic;
+        
     }
